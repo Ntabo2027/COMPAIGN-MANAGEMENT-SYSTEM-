@@ -1,0 +1,6 @@
+{
+  "name": "County Campaign Manager",
+  "description": "A mobile-friendly campaign management dashboard and operations portal for the Nairobi County Governor campaign prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
